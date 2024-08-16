@@ -1,4 +1,5 @@
 ---
+permalink: /about/
 title: "Author Details"
 categories:
   - about
