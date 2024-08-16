@@ -1,5 +1,7 @@
 ---
 title: "Author Details"
+categories:
+  - about
 ---
 
 # Author
