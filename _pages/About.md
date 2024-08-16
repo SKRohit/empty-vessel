@@ -4,6 +4,7 @@ title: "About"
 excerpt: "Blog author details."
 last_modified_at: 2024-08-16T11:59:26-04:00
 layout: single
+author_profile: true
 ---
 
 
