@@ -1,5 +1,5 @@
 ---
-title: "Overview of technologies behind distributed training of Transformers"
+title: "Overview of distributed training technologies for Transformers"
 categories:
   - distributed-training
 tags:
