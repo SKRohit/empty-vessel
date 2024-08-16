@@ -5,6 +5,7 @@ categories:
 tags:
   - llms
   - deep learning
+layout: single
 ---
 
 # What are the different types of distributed training?
