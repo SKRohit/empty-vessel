@@ -1,8 +1,7 @@
 ---
+permalink: /about/
 title: "About"
 excerpt: "Blog author details."
-categories:
-  - about
 last_modified_at: 2024-08-16T11:59:26-04:00
 ---
 
