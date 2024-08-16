@@ -1,7 +1,7 @@
 ---
 title: "Distributed Training Basics"
 categories:
-  - Edge Case
+  - distributed-training
 tags:
   - llms
   - deep learning
