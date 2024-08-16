@@ -1,13 +1,14 @@
 ---
-permalink: /about/
 title: "About"
 excerpt: "Blog author details."
+categories:
+  - about
 last_modified_at: 2024-08-16T11:59:26-04:00
 ---
 
 <figure>
 	<a href="assets/images/dp.jpeg"><img src="assets/images/dp.jpeg"></a>
-	<figcaption><a href="assets/images/dp.jpeg" title="Author's Image">Author's Image</a>.</figcaption>
+	<figcaption>Author's Image.</figcaption>
 </figure>
 
-I am an AI Software Engineer working at Intel
+I am an AI Software Engineer at Intel, validating LLMs performance on Intel's Gaudi AI accelerator.
