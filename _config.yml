@@ -114,6 +114,7 @@ author:
   avatar           : "/assets/images/dp.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI Software Engineer, Intel"
   location         : "Bangalore, India"
+  home             : "/about/"
   email            :
   links:
     - label: "Email"
